@@ -1,4 +1,6 @@
-as we know that html has rules
-so u must understand them well
-+
-its so funny for help u can masg me or reply to this file
+HTML stands for {Hyper Text Markup Language}
+
+CSS stands for {Cascading Style Sheets}
+
+
+HTML is very funny! its not boring and you will love using it!
